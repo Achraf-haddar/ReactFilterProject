@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/ReactFilterProject/static/css/main.073c9b0a.css",
+    "main.js": "/ReactFilterProject/static/js/main.5a88dc4f.js",
+    "static/js/498.0817d254.chunk.js": "/ReactFilterProject/static/js/498.0817d254.chunk.js",
+    "static/js/703.8ca368f1.chunk.js": "/ReactFilterProject/static/js/703.8ca368f1.chunk.js",
+    "static/js/617.dbfdb431.chunk.js": "/ReactFilterProject/static/js/617.dbfdb431.chunk.js",
+    "static/js/787.ec704a7a.chunk.js": "/ReactFilterProject/static/js/787.ec704a7a.chunk.js",
+    "index.html": "/ReactFilterProject/index.html",
+    "main.073c9b0a.css.map": "/ReactFilterProject/static/css/main.073c9b0a.css.map",
+    "main.5a88dc4f.js.map": "/ReactFilterProject/static/js/main.5a88dc4f.js.map",
+    "498.0817d254.chunk.js.map": "/ReactFilterProject/static/js/498.0817d254.chunk.js.map",
+    "703.8ca368f1.chunk.js.map": "/ReactFilterProject/static/js/703.8ca368f1.chunk.js.map",
+    "617.dbfdb431.chunk.js.map": "/ReactFilterProject/static/js/617.dbfdb431.chunk.js.map",
+    "787.ec704a7a.chunk.js.map": "/ReactFilterProject/static/js/787.ec704a7a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.5a88dc4f.js"
+  ]
+}
